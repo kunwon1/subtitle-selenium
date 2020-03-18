@@ -1,0 +1,58 @@
+[core]
+nick = titlebot
+host = chat.example.net
+use_ssl = false
+port = 6667
+owner = YOUR_IRC_NICK_HERE
+channels = 
+	"#testing"
+	"#testing2"
+commands_on_connect = 
+auth_method = sasl
+auth_username = titlebot
+auth_password = hunter2
+reply_errors = false
+exclude =
+	emoticons
+	find_updates
+	remind
+	bugzilla
+	meetbot
+	version
+	ping
+	countdown
+	uptime
+	wiktionary
+	tell
+	tld
+	safety
+	units
+	py
+	find
+	reload
+	dice
+	rand
+	clock
+	adminchannel
+	choose
+	admin
+	xkcd
+	help
+	translate
+	instagram
+	unicode_info
+	currency
+	pronouns
+	search
+	etymology
+	seen
+	announce
+	invite
+	reddit
+	lmgtfy
+	ip
+	calc
+	wikipedia
+	isup
+	coretasks
+	url

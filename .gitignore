@@ -1,0 +1,6 @@
+sopel-homedirectory/default.cfg
+sopel-homedirectory/*.db
+sopel-homedirectory/logs
+sopel-homedirectory/sopel.pid
+sopel-homedirectory/malwaredomains.txt
+env
